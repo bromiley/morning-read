@@ -6,6 +6,6 @@ The purpose of this repository is to source and preserve recommended readings, i
 
 ### February 2017
 
-| Date | Title | Author | Source | Preserved Copy | Blog Post |
-| ---- | ---- | ---- | ---- | ---- |
-| 2017-02-24 | OS X as a Forensic Platform | [David M. Martin](dmartin@mastersprogram.sans.edu) | [Link](https://www.sans.org/reading-room/whitepapers/apple/os-forensic-platform-37637) | TBD | TBD
+Date | Title | Author | Source | Preserved Copy | Blog Post
+---- | ---- | ---- | ---- | ---- | ----
+2017-02-24 | OS X as a Forensic Platform | [David M. Martin](dmartin@mastersprogram.sans.edu) | [Link](https://www.sans.org/reading-room/whitepapers/apple/os-forensic-platform-37637) | TBD | TBD
