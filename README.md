@@ -8,4 +8,4 @@ The purpose of this repository is to source and preserve recommended readings, i
 
 Date | Title | Author | Source | Preserved Copy | Blog Post
 ---- | ---- | ---- | ---- | ---- | ----
-2017-02-24 | OS X as a Forensic Platform | [David M. Martin](dmartin@mastersprogram.sans.edu) | [Link](https://www.sans.org/reading-room/whitepapers/apple/os-forensic-platform-37637) | TBD | TBD
+2017-02-24 | OS X as a Forensic Platform | [David M. Martin](dmartin@mastersprogram.sans.edu) | [Link](https://www.sans.org/reading-room/whitepapers/apple/os-forensic-platform-37637) | [Link](https://github.com/bromiley/morning-read/blob/master/PDFs/2017/February/2017-02-24%20-%20OS%20X%20as%20a%20Forensic%20Platform.pdf) | TBD
