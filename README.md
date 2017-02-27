@@ -2,7 +2,7 @@
 
 Welcome to the Morning Read repository. The Morning Read is a daily post where I discuss and recommend a white paper, blog post, chapter of a book, or some sort of text I find useful for DFIR analysts.
 
-The purpose of this repository is to source and preserve recommended readings, in case linked resources are moved in the future.
+The purpose of this repository is to source and preserve recommended readings, in case linked resources are moved in the future. Post lists will be archived monthly, and moved to respective files.
 
 ### February 2017
 
