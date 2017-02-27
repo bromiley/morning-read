@@ -5,4 +5,4 @@ Paper introduction
 
 ### Takeaways
 ### Highlights
-### Suggestions
+### Suggestions for Analysts
